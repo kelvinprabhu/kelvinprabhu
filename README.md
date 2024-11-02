@@ -1,18 +1,23 @@
 # 👋 Hey, I'm Kelvin Prabhu – The **Artificial Intelligence Alchemist** 🧙‍♂️🤖
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnbGdwN2pod3J2Z2dxZWdxaHR3cmZ6YXJ5OGdrbGRuNHA5MWplMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0R7AQsnA3yIUcbvztz/giphy.gif" width="800px">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnbGdwN2pod3J2Z2dxZWdxaHR3cmZ6YXJ5OGdrbGRuNHA5MWplMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0R7AQsnA3yIUcbvztz/giphy.gif" width="600px">
 </div>
-Welcome to my corner of the internet, where bugs fear to tread and code comes alive... usually after several attempts. 😅
+<div align="center">
+  <h2 style="color: white; background-color: #1a1a4b; padding: 10px; border-radius: 5px;">Welcome to my corner of the internet, where bugs fear to tread and code comes alive... usually after several attempts. 😅</h2>
+</div>
+
 ---
 
 | **👀 Interests**                         | **🌱 Learning**                                | **💞️ Collaboration?**                     |
 |------------------------------------------|------------------------------------------------|--------------------------------------------|
-| **AI & ML** – Training bots to do chores | **New Tech** – [Tensorflow,openCV] (expect chaos) | **Open Source** – Sprinkling some magic ✨ |
+| **AI & ML** – Training bots to do chores | **New Tech** – [TensorFlow, OpenCV] (expect chaos) | **Open Source** – Sprinkling some magic ✨ |
 | **Web Dev** – Adding flavor to the web   | **Advanced AI** – Hoping code behaves         | **Research** – AI + Space? Let’s explore! 🚀 |
-| **Astrophysics** – Waiting for aliens 🛸 | **DataEngineering** -    [GCP]                                      |                                            |
+| **Astrophysics** – Waiting for aliens 🛸 | **Data Engineering** – [GCP]                  |                                            |
 
 ---
+
+
 
 ### 📬 Where to Find Me
 

@@ -21,11 +21,13 @@
 
 ### 📬 Where to Find Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://kelvinportfolio2071.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/a-anto-kelvin-prabhu-48385b25a)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://instagram.com/kelvin.prabhu__)
-[![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)](https://medium.com/@kelvinprabhu2071)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/918708687084?text=hey%20kelvin)
+<div align="center">
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://kelvinportfolio2071.netlify.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/a-anto-kelvin-prabhu-48385b25a)
+  [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://instagram.com/kelvin.prabhu__)
+  [![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)](https://medium.com/@kelvinprabhu2071)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/918708687084?text=hey%20kelvin)
+</div>
 
 
 ---

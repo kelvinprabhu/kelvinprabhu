@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Kelvin Prabhu – The **Artificial Intelligence Alchemist** 🧙‍♂️🤖
 
-![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnbGdwN2pod3J2Z2dxZWdxaHR3cmZ6YXJ5OGdrbGRuNHA5MWplMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0R7AQsnA3yIUcbvztz/giphy.gif) <!-- Replace with a fun GIF -->
-
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xnbGdwN2pod3J2Z2dxZWdxaHR3cmZ6YXJ5OGdrbGRuNHA5MWplMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0R7AQsnA3yIUcbvztz/giphy.gif" width="600px">
+</div>
 Welcome to my corner of the internet, where bugs fear to tread and code comes alive... usually after several attempts. 😅
 ---
 

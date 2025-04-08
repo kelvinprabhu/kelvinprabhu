@@ -11,9 +11,10 @@
 
 | **👀 Interests**                         | **🌱 Learning**                                | **💞️ Collaboration?**                     |
 |------------------------------------------|------------------------------------------------|--------------------------------------------|
-| **AI & ML** – Training bots to do chores | **New Tech** – [TensorFlow, OpenCV] (expect chaos) | **Open Source** – Sprinkling some magic ✨ |
-| **Web Dev** – Adding flavor to the web   | **Advanced AI** – Hoping code behaves         | **Research** – AI + Space? Let’s explore! 🚀 |
-| **Astrophysics** – Waiting for aliens 🛸 | **Data Engineering** – [GCP]                  |                                            |
+| **AI & ML** – Reinforcement Learning,DeepNetworks,AI Agents | **New Tech** – [Torch,AI Agents] (expect chaos) | **Open Mic** – Sprinkling some magic ✨ |
+| **Web Dev** – Adding flavor to the web (End to End)   | **Advanced AI** – Hoping code behaves         | **Research** – Reinforcement Q Learning for Terrain-Energy
+Aware Lunar Rover Navigation 🚀 |
+| **Astrophysics** – Waiting for aliens 🛸 | **Reinforcement Agents** – [Custom Agents]                  |                                            |
 
 ---
 

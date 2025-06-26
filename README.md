@@ -12,7 +12,7 @@
 | **👀 Interests**                         | **🌱 Learning**                                | **💞️ Collaboration?**                     |
 |------------------------------------------|------------------------------------------------|--------------------------------------------|
 | **AI & ML** – RL, LLMs, RAG, Vision, Agents | **New Tech** – Torch, Agentic AI, Multi-AI Systems | **Open Source** – Let's build better AI ✨ |
-| **Fullstack Dev** – React, Django, FastAPI, StreamLit   | **Edge AI** – Wearables + IoT fusion 🔌         | **Research** – Reinforcement Learning Rover Navigation 🚀 |
+| **Fullstack Dev** – React, Django, FastAPI, StreamLit   | **Edge AI** – Wearables + IoT fusion 🔌         | **Research** – RL for Lunar Rover Navigation 🚀 |
 | **Astro + AI** – SpaceTech meets DeepTech 🪐 | **CV Agents** – Pose Detection, Injury Prevention | **Trika.ai** – Building AI fitness revolution 💪 |
 
 ---
@@ -46,7 +46,7 @@
 
 <p align="center">
     <a href="https://github.com/kelvinprabhu">
-        <img title="🔥 GitHub streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinprabhu&theme=blue-green&hide_border=true&stroke=0000&background=0D1117"/>
+        <img title="🔥 GitHub streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinprabhu&theme=blue-black&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
@@ -55,27 +55,16 @@
 
 ---
 
-### 📫 Contact Me
+### 📫 Let's Connect
 
-<table><tr>
-<td><b>📧 Email</b></td>
-<td><a href="mailto:kelvinprabhu2071@gmail.com">kelvinprabhu2071@gmail.com</a></td>
-</tr><tr>
-<td><b>🌐 Portfolio</b></td>
-<td><a href="https://kelvinportfolio2071.netlify.app">kelvinportfolio2071.netlify.app</a></td>
-</tr><tr>
-<td><b>💼 LinkedIn</b></td>
-<td><a href="https://linkedin.com/in/a-anto-kelvin-prabhu-48385b25a">linkedin.com/in/a-anto-kelvin-prabhu</a></td>
-</tr><tr>
-<td><b>📸 Instagram</b></td>
-<td><a href="https://instagram.com/kelvin.prabhu__">instagram.com/kelvin.prabhu__</a></td>
-</tr><tr>
-<td><b>✍️ Medium</b></td>
-<td><a href="https://medium.com/@kelvinprabhu2071">medium.com/@kelvinprabhu2071</a></td>
-</tr><tr>
-<td><b>💬 WhatsApp</b></td>
-<td><a href="https://wa.me/918708687084?text=hey%20kelvin">Chat on WhatsApp</a></td>
-</tr></table>
+<p align="center">
+  <a href="mailto:kelvinprabhu2071@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20a%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kelvinportfolio2071.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/a-anto-kelvin-prabhu-48385b25a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/kelvin.prabhu__"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@kelvinprabhu2071"><img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://wa.me/918708687084?text=hey%20kelvin"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 

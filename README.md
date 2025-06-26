@@ -11,8 +11,8 @@
 
 | **👀 Interests**                         | **🌱 Learning**                                | **💞️ Collaboration?**                     |
 |------------------------------------------|------------------------------------------------|--------------------------------------------|
-| **AI & ML** – RL, LLMs, RAG, Vision, Agents | **New Tech** – Torch, LangMem, Real-Time CV Pipelines | **Open Source** – Let's build better AI ✨ |
-| **Fullstack Dev** – React, Django, FastAPI   | **Edge AI** – Wearables + IoT fusion 🔌         | **Research** – RL for Lunar Rover Navigation 🚀 |
+| **AI & ML** – RL, LLMs, RAG, Vision, Agents | **New Tech** – Torch, LangMem, Multi AI Systems | **Open Source** – Let's build better AI ✨ |
+| **Fullstack Dev** – React, Django, FastAPI,StreamLit   | **Edge AI** – Wearables + IoT fusion 🔌         | **Research** – RL for Lunar Rover Navigation 🚀 |
 | **Astro + AI** – SpaceTech meets DeepTech 🪐 | **CV Agents** – Pose Detection, Injury Prevention | **Trika.ai** – Building AI fitness revolution 💪 |
 
 ---
@@ -22,7 +22,8 @@
 - 🎓 AI/ML Student + Fullstack Developer + Future AI Engineer
 - 🛠️ Building [**Trika.ai**](https://github.com/kelvinprabhu/trika.ai): an AI-powered fitness platform (mobile + wearable + web)
 - 📈 Pushing limits with RAG bots, GraphDBs, and multimodal learning
-- 📚 Published: *Navigating the Cosmos with AI – Mapping the Future of Exploration* 🪐
+- 📚 Published: *Reinforcement Q Learning for Terrain-Energy
+Aware Lunar Rover Navigation - IEEESPACE* 🪐
 - 🧠 Obsessing over memory in LLMs: LangMem (short-term, semantic, procedural...)
 
 ---
@@ -44,13 +45,14 @@
 
 ---
 
+
 <p align="center">
     <a href="#">
-        <img title="🔥 GitHub streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinprabhu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 GitHub streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinprabhu&theme=blue-green&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
-| <a href="#"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kelvinprabhu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> | <a href="#"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinprabhu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
+| <a href="#"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kelvinprabhu&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /></a> | <a href="#"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinprabhu&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a> |
 | ------------- | ------------- |
 
 ---

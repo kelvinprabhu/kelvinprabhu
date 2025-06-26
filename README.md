@@ -45,8 +45,8 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/kelvinprabhu">
-        <img title="🔥 GitHub streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinprabhu&theme=white&hide_border=true&stroke=0000&background=0D1117"/>
+    <a href="https://github.com/kelvinprabhu">ts.herokuapp.com/?user=kelvinprabhu&theme=blue-black&hide_bor
+        <img title="🔥 GitHub streak stats" alt="Streak" src="https://github-readme-streak-stader=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 

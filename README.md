@@ -45,9 +45,15 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/kelvinprabhu">
-        <img title="🔥 GitHub streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinprabhu&theme=tokyonight_duo&hide_border=false&stroke=FFFFFF&ring=00FFFF&fire=FFD700&currStreakLabel=FFFFFF&background=0D1117"/>
-    </a>
+    <a href="https://github.com/kelvinprabhu" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinprabhu&theme=tokyonight_duo&hide_border=false&stroke=FFFFFF&ring=00FFFF&fire=FFD700&currStreakLabel=FFFFFF&background=0D1117" 
+    alt="🔥 Kelvin's GitHub Streak" 
+    title="🔥 GitHub Streak Stats"
+    style="max-width: 100%; border-radius: 10px;"
+  />
+</a>
+
 </p>
 
 | <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kelvinprabhu&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=00000000&border_radius=10&rank_icon=github" /> | <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinprabhu&langs_count=8&layout=compact&theme=tokyonight&hide_border=false&bg_color=00000000&border_radius=10" /> |

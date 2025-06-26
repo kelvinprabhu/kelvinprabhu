@@ -11,20 +11,19 @@
 
 | **👀 Interests**                         | **🌱 Learning**                                | **💞️ Collaboration?**                     |
 |------------------------------------------|------------------------------------------------|--------------------------------------------|
-| **AI & ML** – RL, LLMs, RAG, Vision, Agents | **New Tech** – Torch, LangMem, Multi AI Systems | **Open Source** – Let's build better AI ✨ |
-| **Fullstack Dev** – React, Django, FastAPI,StreamLit   | **Edge AI** – Wearables + IoT fusion 🔌         | **Research** – RL for Lunar Rover Navigation 🚀 |
+| **AI & ML** – RL, LLMs, RAG, Vision, Agents | **New Tech** – Torch, Agentic AI, Multi-AI Systems | **Open Source** – Let's build better AI ✨ |
+| **Fullstack Dev** – React, Django, FastAPI, StreamLit   | **Edge AI** – Wearables + IoT fusion 🔌         | **Research** – Reinforcement Learning Rover Navigation 🚀 |
 | **Astro + AI** – SpaceTech meets DeepTech 🪐 | **CV Agents** – Pose Detection, Injury Prevention | **Trika.ai** – Building AI fitness revolution 💪 |
 
 ---
 
-## 🙋‍♂️ About Me
+## 👤 About Me
 
 - 🎓 AI/ML Student + Fullstack Developer + Future AI Engineer
 - 🛠️ Building [**Trika.ai**](https://github.com/kelvinprabhu/trika.ai): an AI-powered fitness platform (mobile + wearable + web)
 - 📈 Pushing limits with RAG bots, GraphDBs, and multimodal learning
-- 📚 Published: *Reinforcement Q Learning for Terrain-Energy
-Aware Lunar Rover Navigation - IEEESPACE* 🪐
-- 🧠 Obsessing over memory in LLMs: LangMem (short-term, semantic, procedural...)
+- 📚 Published: *Reinforcement Q Learning for Terrain-Energy Aware Lunar Rover Navigation – IEEE SPACE* 🪐 (a.k.a. teaching bots to avoid rough patches on the moon and in life 🌕)
+- 🧠 Building intelligent Agent AI capabilities for real-world task automation (LangMem? Nah, this one's memory is actually useful)
 
 ---
 
@@ -45,25 +44,38 @@ Aware Lunar Rover Navigation - IEEESPACE* 🪐
 
 ---
 
-
 <p align="center">
-    <a href="#">
+    <a href="https://github.com/kelvinprabhu">
         <img title="🔥 GitHub streak stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinprabhu&theme=blue-green&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
-| <a href="#"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kelvinprabhu&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /></a> | <a href="#"><img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinprabhu&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a> |
+| <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kelvinprabhu&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /> | <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinprabhu&langs_count=8&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /> |
 | ------------- | ------------- |
 
 ---
 
-### 📬 Where to Find Me
+### 📫 Contact Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://kelvinportfolio2071.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/a-anto-kelvin-prabhu-48385b25a)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram)](https://instagram.com/kelvin.prabhu__)
-[![Medium](https://img.shields.io/badge/Medium-Read-black?logo=medium)](https://medium.com/@kelvinprabhu2071)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/918708687084?text=hey%20kelvin) 
+<table><tr>
+<td><b>📧 Email</b></td>
+<td><a href="mailto:kelvinprabhu2071@gmail.com">kelvinprabhu2071@gmail.com</a></td>
+</tr><tr>
+<td><b>🌐 Portfolio</b></td>
+<td><a href="https://kelvinportfolio2071.netlify.app">kelvinportfolio2071.netlify.app</a></td>
+</tr><tr>
+<td><b>💼 LinkedIn</b></td>
+<td><a href="https://linkedin.com/in/a-anto-kelvin-prabhu-48385b25a">linkedin.com/in/a-anto-kelvin-prabhu</a></td>
+</tr><tr>
+<td><b>📸 Instagram</b></td>
+<td><a href="https://instagram.com/kelvin.prabhu__">instagram.com/kelvin.prabhu__</a></td>
+</tr><tr>
+<td><b>✍️ Medium</b></td>
+<td><a href="https://medium.com/@kelvinprabhu2071">medium.com/@kelvinprabhu2071</a></td>
+</tr><tr>
+<td><b>💬 WhatsApp</b></td>
+<td><a href="https://wa.me/918708687084?text=hey%20kelvin">Chat on WhatsApp</a></td>
+</tr></table>
 
 ---
 

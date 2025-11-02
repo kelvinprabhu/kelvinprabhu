@@ -18,12 +18,12 @@ AI Engineer × System Architect × Research Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent+Systems;Crafting+Multi-Agent+Architectures;From+Research+to+Production)](https://git.io/typing-svg)
 <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anFocDJ6c2xjcXkyaG05ZXE3N2tyaGF3MXlubHd6MmNlNHN4czV6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzlVJAzNUDwvpcc0/giphy.gif" width="150px" alt="AI animation">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anFocDJ6c2xjcXkyaG05ZXE3N2tyaGF3MXlubHd6MmNlNHN4czV6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzlVJAzNUDwvpcc0/giphy.gif" width="50px" alt="AI animation">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlxbjJvN3dtNW5kd2ZsOXMzeXl6Zm81cG5kcmdienhmY2VpOHZ5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pIMlKqgdZgvo4/giphy.gif" width="200px" alt="AI animation">
   <img 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNxeXgzdWdjb3NxOTZ0cmN5bnAxaTI2cWNsbWIzaDBpaWNuNWgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="200px" alt="AI animation">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlxbjJvN3dtNW5kd2ZsOXMzeXl6Zm81cG5kcmdienhmY2VpOHZ5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pIMlKqgdZgvo4/giphy.gif" width="200px" alt="AI animation">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anFocDJ6c2xjcXkyaG05ZXE3N2tyaGF3MXlubHd6MmNlNHN4czV6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzlVJAzNUDwvpcc0/giphy.gif" width="150px" alt="AI animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anFocDJ6c2xjcXkyaG05ZXE3N2tyaGF3MXlubHd6MmNlNHN4czV6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzlVJAzNUDwvpcc0/giphy.gif" width="50px" alt="AI animation">
   <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzV3OG5zeHc5cjlyY2EzcGgzMmpwZTN6YjVlOTNqMjh2aTZpeWZ1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G6TrPJesK3rDrEYGNY/giphy.gif" width="300px" alt="AI animation"> -->
   
 </div>

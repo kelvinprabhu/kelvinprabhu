@@ -1,8 +1,20 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Kelvin Prabhu
+
+<div align="center" style="background:#0D1117; padding:25px; border-radius:15px; box-shadow: 0px 0px 15px #6C63FF;">
+  
+  <h1 style="color:#6C63FF; font-size:2.5em; font-weight:700; font-family:'Poppins', sans-serif; text-shadow: 0px 0px 10px #6C63FF;">
+    👋 Hey, I'm <span style="color:#FFB86C;">Kelvin</span>!
+  </h1>
+  
+
+  
+  <p style="color:#C0C0C0; font-style:italic;">
+    “Turning ideas into impactful digital experiences through clean code and creativity.”
+  </p>
+
+</div>
 
 <div align="center">
-  
-### **AI Engineer** × **System Architect** × **Research Enthusiast** 
+AI Engineer × System Architect × Research Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent+Systems;Crafting+Multi-Agent+Architectures;From+Research+to+Production)](https://git.io/typing-svg)
 <div align="center">

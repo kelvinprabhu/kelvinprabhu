@@ -94,10 +94,7 @@ AI Engineer × System Architect × Research Enthusiast
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kelvinprabhu&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FFB86C&currStreakLabel=FF79C6)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinprabhu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FFB86C&text_color=8BE9FD&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinprabhu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=8BE9FD"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinprabhu&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=FFB86C&point=8BE9FD&area_color=6C63FF&area=true&hide_border=true" width="100%">
 

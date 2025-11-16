@@ -33,26 +33,26 @@ AI Engineer × System Architect × Research Enthusiast
 </div>
 
 
-## 💼 **Tech Arsenal**
+<div align="center">
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-
-  <div align="center" style="flex: 1; min-width: 250px; max-width: 30%;">
-    <h3>🔥 AI & Machine Learning</h3>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="50" alt="AI Icons"/><br/><br/>
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black"/>
-    <img src="https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
-  </div>
-
-  <div align="center" style="flex: 1; min-width: 250px; max-width: 30%;">
-    <h3>💻 Full Stack Development</h3>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django,typescript" height="50" alt="Full Stack Icons"/>
-  </div>
-
-  <div align="center" style="flex: 1; min-width: 250px; max-width: 30%;">
-    <h3>🗄️ Databases & DevOps</h3>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws" height="50" alt="Database Icons"/>
-  </div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔥 AI & Machine Learning</h3>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" height="50"/><br><br>
+      <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black"/>
+      <img src="https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 Full Stack Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django,typescript" height="50"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>🗄️ Databases & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws" height="50"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -106,7 +106,7 @@ AI Engineer × System Architect × Research Enthusiast
 
 <div align="center">
 
-### 🏋️ [Trika.AI](https://github.com/kelvinprabhu/trika.ai) - AI Fitness Revolution
+### 🏋️ [Trika.AI](https://github.com/kelvinprabhu/TrikaAI-FrontEnd-BackEnd-) - AI Fitness Revolution
 
 *Fitness + Wellness powered by AI + IoT + Wearables*
 

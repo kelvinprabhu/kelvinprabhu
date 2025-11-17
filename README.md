@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-AI Engineer × Full Stack Developer × Research Enthusiast
+AI Engineer × System Architect × Research Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent+Systems;Crafting+Multi-Agent+Architectures;From+Research+to+Production)](https://git.io/typing-svg)
 
@@ -52,6 +52,30 @@ AI Engineer × Full Stack Developer × Research Enthusiast
 
 ---
 
+
+---
+
+
+
+## 📈 WakaTime Coding Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://wakatime.com/share/@kelvinprabhu/870611de-26e8-4fbd-a13e-503d7788ea9b.svg" alt="Categories" width="100%"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://wakatime.com/share/@kelvinprabhu/08ec0919-cdf6-4eee-8167-a102d9d467fe.svg" alt="Editors" width="100%"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://wakatime.com/share/@kelvinprabhu/b5a11132-b07f-451c-a9d1-ca9e14fa619f.svg" alt="Operating Systems" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+
 ## 🤝 Let's Collaborate On
 
 <div align="center">
@@ -83,55 +107,7 @@ AI Engineer × Full Stack Developer × Research Enthusiast
 
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinprabhu&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=FFB86C&point=8BE9FD&area_color=6C63FF&area=true&hide_border=true" width="100%">
-
-### ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kelvinprabhu&layout=compact&theme=radical&bg_color=0D1117&title_color=6C63FF&text_color=C0C0C0&icon_color=FFB86C&border_color=6C63FF" alt="WakaTime Stats"/>
-
-</div>
-
----
-
-## 🏗️ Featured Project
-
-<div align="center">
-
-### 🏋️ [Trika.AI](https://github.com/kelvinprabhu/TrikaAI-FrontEnd-BackEnd-) - AI Fitness Revolution
-
-*Fitness + Wellness powered by AI + IoT + Wearables*
-
-Building intelligent systems that understand your fitness journey through real-time data, computer vision, and personalized AI coaching.
-
-[![Repo](https://img.shields.io/badge/View%20Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvinprabhu/trika.ai)
-
-</div>
-
----
-
-<div align="center">
-
-### 💻 *"Bridging AI research and deployable intelligence"*
-
-**Building the future, one agent at a time**
-
-![Profile Views](https://komarev.com/ghpvc/?username=kelvinprabhu&color=6C63FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kelvinprabhu?label=Followers&style=for-the-badge&color=6C63FF)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-⭐ **Enjoyed my work? Star a repository!**
-
-</div>
 
 ## 📫 Connect
 
@@ -149,6 +125,14 @@ Building intelligent systems that understand your fitness journey through real-t
 ---
 
 <div align="center">
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=kelvinprabhu&color=6C63FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/kelvinprabhu?label=Followers&style=for-the-badge&color=6C63FF)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+⭐ **Enjoyed my work? Star a repository!**
   
 **A ANTO KELVIN PRABHU** | [@kelvinprabhu](https://github.com/kelvinprabhu)
 

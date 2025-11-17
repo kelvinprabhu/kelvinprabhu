@@ -1,14 +1,11 @@
-
 <div align="center" style="background:#0D1117; padding:25px; border-radius:15px; box-shadow: 0px 0px 15px #6C63FF;">
   
   <h1 style="color:#6C63FF; font-size:2.5em; font-weight:700; font-family:'Poppins', sans-serif; text-shadow: 0px 0px 10px #6C63FF;">
     👋 Hey, I'm <span style="color:#FFB86C;">Kelvin</span>!
   </h1>
   
-
-  
   <p style="color:#C0C0C0; font-style:italic;">
-    “Turning ideas into impactful digital experiences through clean code and creativity.”
+    "Turning ideas into impactful digital experiences through clean code and creativity."
   </p>
 
 </div>
@@ -17,21 +14,18 @@
 AI Engineer × System Architect × Research Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent+Systems;Crafting+Multi-Agent+Architectures;From+Research+to+Production)](https://git.io/typing-svg)
+
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anFocDJ6c2xjcXkyaG05ZXE3N2tyaGF3MXlubHd6MmNlNHN4czV6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzlVJAzNUDwvpcc0/giphy.gif" width="50px" alt="AI animation">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlxbjJvN3dtNW5kd2ZsOXMzeXl6Zm81cG5kcmdienhmY2VpOHZ5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pIMlKqgdZgvo4/giphy.gif" width="200px" alt="AI animation">
-  <img 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNxeXgzdWdjb3NxOTZ0cmN5bnAxaTI2cWNsbWIzaDBpaWNuNWgxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="200px" alt="AI animation">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHlxbjJvN3dtNW5kd2ZsOXMzeXl6Zm81cG5kcmdienhmY2VpOHZ5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pIMlKqgdZgvo4/giphy.gif" width="200px" alt="AI animation">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anFocDJ6c2xjcXkyaG05ZXE3N2tyaGF3MXlubHd6MmNlNHN4czV6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzlVJAzNUDwvpcc0/giphy.gif" width="50px" alt="AI animation">
-  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzV3OG5zeHc5cjlyY2EzcGgzMmpwZTN6YjVlOTNqMjh2aTZpeWZ1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G6TrPJesK3rDrEYGNY/giphy.gif" width="300px" alt="AI animation"> -->
-  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
-
 
 <div align="center">
 
@@ -56,8 +50,8 @@ AI Engineer × System Architect × Research Enthusiast
 
 </div>
 
-
 ---
+
 ## 🤝 Let's Collaborate On
 
 <div align="center">
@@ -90,17 +84,23 @@ AI Engineer × System Architect × Research Enthusiast
 </div>
 
 ---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinprabhu&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=FFB86C&point=8BE9FD&area_color=6C63FF&area=true&hide_border=true" width="100%">
+
+### ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kelvinprabhu&layout=compact&theme=radical&bg_color=0D1117&title_color=6C63FF&text_color=C0C0C0&icon_color=FFB86C&border_color=6C63FF" alt="WakaTime Stats"/>
 
 </div>
 
-
+---
 
 ## 🏗️ Featured Project
 
@@ -117,9 +117,6 @@ Building intelligent systems that understand your fitness journey through real-t
 </div>
 
 ---
-
-
-
 
 <div align="center">
 
@@ -150,3 +147,9 @@ Building intelligent systems that understand your fitness journey through real-t
 </div>
 
 ---
+
+<div align="center">
+  
+**A ANTO KELVIN PRABHU** | [@kelvinprabhu](https://github.com/kelvinprabhu)
+
+</div>

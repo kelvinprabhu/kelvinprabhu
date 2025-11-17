@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-AI Engineer × System Architect × Research Enthusiast
+AI Engineer × Full Stack Developer × Research Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&lines=Building+Intelligent+Systems;Crafting+Multi-Agent+Architectures;From+Research+to+Production)](https://git.io/typing-svg)
 

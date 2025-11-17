@@ -109,8 +109,17 @@ AI Engineer × System Architect × Research Enthusiast
 
 
 
-## 📫 Connect
 
+
+
+---
+
+<div align="center">
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=kelvinprabhu&color=6C63FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/kelvinprabhu?label=Followers&style=for-the-badge&color=6C63FF)
+</div>
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinprabhu2071@gmail.com)
@@ -121,15 +130,7 @@ AI Engineer × System Architect × Research Enthusiast
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918708687084?text=Hey%20Kelvin!)
 
 </div>
-
----
-
 <div align="center">
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=kelvinprabhu&color=6C63FF&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/kelvinprabhu?label=Followers&style=for-the-badge&color=6C63FF)
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ⭐ **Enjoyed my work? Star a repository!**

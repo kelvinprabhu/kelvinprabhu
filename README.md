@@ -60,23 +60,15 @@ AI Engineer × System Architect × Research Enthusiast
 ## 📈 WakaTime Coding Stats
 
 <div align="center">
-   <table>
-  <tr>
-    <td align="center" width="100%">
-      <img src="https://wakatime.com/share/@kelvinprabhu/870611de-26e8-4fbd-a13e-503d7788ea9b.svg" alt="Categories" width="100%"/>
-    </td>
-   
-  </tr>
-</table>
+  <div>
+      <img src="https://wakatime.com/share/@kelvinprabhu/870611de-26e8-4fbd-a13e-503d7788ea9b.svg" alt="Categories" width="70%"/>
+  </div>
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="https://wakatime.com/share/@kelvinprabhu/870611de-26e8-4fbd-a13e-503d7788ea9b.svg" alt="Categories" width="100%"/>
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="40%">
       <img src="https://wakatime.com/share/@kelvinprabhu/08ec0919-cdf6-4eee-8167-a102d9d467fe.svg" alt="Editors" width="100%"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="60%">
       <img src="https://wakatime.com/share/@kelvinprabhu/b5a11132-b07f-451c-a9d1-ca9e14fa619f.svg" alt="Operating Systems" width="100%"/>
     </td>
   </tr>

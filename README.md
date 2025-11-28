@@ -60,6 +60,14 @@ AI Engineer × System Architect × Research Enthusiast
 ## 📈 WakaTime Coding Stats
 
 <div align="center">
+   <table>
+  <tr>
+    <td align="center" width="100%">
+      <img src="https://wakatime.com/share/@kelvinprabhu/870611de-26e8-4fbd-a13e-503d7788ea9b.svg" alt="Categories" width="100%"/>
+    </td>
+   
+  </tr>
+</table>
 <table>
   <tr>
     <td align="center" width="33%">
@@ -73,6 +81,7 @@ AI Engineer × System Architect × Research Enthusiast
     </td>
   </tr>
 </table>
+ 
 </div>
 
 
